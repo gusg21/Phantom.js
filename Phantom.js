@@ -1,5 +1,11 @@
 javascript: 
 
+/*
+*
+* Script by gusg21. Copy and paste ALL contents of this file into a bookmark, and run while on BrowserQuest
+*
+*/
+
 var playername, weapontype, armortype;
         playername = prompt("Enter a name for your player.","Phantom");
         weapontype = prompt("Enter a weapon id.","boss");
