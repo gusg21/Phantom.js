@@ -2,7 +2,7 @@
 A simple bookmark script that breaks into BrowserQuest and allows you customize your player spawn.
 
 ### How to use
-Answer the questions it asks you.
+Paste all code in Phantom.js into a bookmark, then click the bookmark twice. Once to go to the page, and another to actually run the script. Then just answer the questions it asks you.
 
 **Some known id's**:
 
