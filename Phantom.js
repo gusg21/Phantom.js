@@ -1,19 +1,13 @@
 javascript: 
 
-/*
-*
-* Script by gusg21. Copy and paste ALL contents of this file into a bookmark, and run while on BrowserQuest
-*
-*/
-
-var L='http://browserquest.mozilla.org/'; //If we aren't at the page
+var L='http://browserquest.mozilla.org/';
 if(location!=L) {
-        location=L; // Take us there
+        location=L;
 }
-else //Otherwise
+else
 {
 
-var playername, weapontype, armortype; //Run Phantom
+var playername, weapontype, armortype;
         playername = prompt("Enter a name for your player.","Phantom");
         weapontype = prompt("Enter a weapon id.","boss");
         armortype = prompt("Enter a armor id.","boss");
